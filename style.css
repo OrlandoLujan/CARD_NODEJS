@@ -1,0 +1,77 @@
+*{
+   margin: 0;
+   padding: 0; 
+}
+
+.caja1 {
+    background-color: rgba(59, 160, 203, 0.888);
+    width: 350px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    border-width: 4px;
+    border-color: rgb(3, 1, 7);
+    border-style: solid;
+    border-radius: 4%;
+}
+
+#logo img {
+
+    width: 220px;
+    height: 110px;  
+    margin-right: auto;
+    margin-left: 660px;
+    margin-top: -550px;
+    margin-bottom: 350px;
+        
+}
+
+#caja2 {
+
+    background-color: white;
+    width: 200px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -550px;
+    border-width: 4px;
+    border-color: rgb(7, 6, 1);
+    border-style: solid;
+    border-radius: 20%;
+    
+}
+
+#especial {
+
+    color: black;
+    display: block;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-top: 250px;
+    margin-bottom: 0px;
+    text-align: justify;
+        
+}
+
+#nombre {
+    color: black;
+    margin-top: -45px;
+    margin-left: 700px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    display: block;
+
+    
+}
+
+h4 {
+
+    color: rgb(0, 0, 0);
+    display: block;
+    margin-left: 700px;
+    margin-right: 0;
+    margin-top: 90px;
+    margin-bottom: 0px;
+    
+}
